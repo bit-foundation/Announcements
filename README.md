@@ -1,4 +1,6 @@
 # Announcements
-Subscribe to this repo to be notified about major changes in Bit-Framework
+Subscribe this repository to track important docs/codes changes in [Bit-Framework](https://github.com/bit-foundation/bit-framework).
 
-Last Update: 3/15/2017 See [issues](https://github.com/bit-foundation/Announcements/issues)
+Full list of issues can be found [here](https://github.com/bit-foundation/Announcements/issues)
+
+Using solutions like [zapier](https://zapier.com/) & [IFTTT](https://ifttt.com/) you can follow [issues](https://github.com/bit-foundation/Announcements/issues) in your mail box, phone's notification center etc.
